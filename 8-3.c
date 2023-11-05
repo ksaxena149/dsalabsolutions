@@ -1,3 +1,11 @@
+// Design, Develop and Implement a menu driven Program in C for the following 
+// operations on Single Circular Linked List (SCLL) of Employee Data with the 
+// fields: SSN, Name, Dept, Designation, Sal, PhNo
+// a. Create a SCLL of N Employees Data by using end insertion.
+// b. Display the status of SCLL and count the number of nodes in it
+// c. Perform Insertion and Deletion at End of SCLL
+// d. Perform Insertion and Deletion at Front of SCLL
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

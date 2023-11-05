@@ -1,3 +1,6 @@
+// Implement a Program in C for converting an Infix Expression to a Postfix Expression and Prefix expression. The program should support both parenthesized and free parenthesized expressions with the operators: +, -, *, /, 
+// %(Remainder), ^(Power) and alphanumeric operands.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
